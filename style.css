@@ -1,0 +1,27 @@
+body{
+    background-color: green;
+}
+
+.card{
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right:auto;
+    width: 300px;
+    height: 420px;
+    background-color: white;
+    border-radius: 2%;
+}
+
+#number{
+    font-size: 110px;
+    text-align: center;
+}
+
+#suit{
+    position: relative;
+    font-size: 90px;
+    margin-top: 0px;
+
+}
